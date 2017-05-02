@@ -1,0 +1,13 @@
+.container {
+    width: 800px;
+}
+.container ul {
+    padding: 0; /* remove default padding and all margins! */
+    margin: 0;
+    list-style-type: none; /* remove the • */
+}
+.container ul li {
+    width: 200px;
+    height: 150px;
+    float: left;
+}
